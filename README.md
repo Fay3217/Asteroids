@@ -1,2 +1,1 @@
-# Asteroids
-A classic Java game
+# Java_Asteroids
